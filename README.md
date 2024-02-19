@@ -1,2 +1,2 @@
 # gdsc-reactify
-my first repositry
+my first repositry.
